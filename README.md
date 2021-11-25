@@ -113,3 +113,7 @@ This network was trained for 300 epochs using Adam optimization with learning ra
 # Alternate Configurations 
 
 Alternate Network Architecture for Video, Sound, Haptic, and Multimodal Networks are discussed here: [Alternate Configurations](AlternateConfigurations.ipynb)
+
+# EMIL Dataset
+Download from https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html
+URL: https://www2.informatik.uni-hamburg.de/WTM/corpora/EMILver1_preprocessed.zip
